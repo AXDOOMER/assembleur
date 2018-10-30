@@ -12,7 +12,7 @@ _start:
 	mov rdx, len		; size à écrire
 	mov rsi, msg		; le message
 	mov rdi, 1		; output standard
-	mov rax, 1		; read system call
+	mov rax, 1		; write system call
 	syscall
 
 	mov rax, 60		; exit system call
