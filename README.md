@@ -8,3 +8,5 @@
 * [x86_64 Linux Assembly](https://www.youtube.com/watch?v=BWRR3Hecjao&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn&index=2) (Youtube)
 * [Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 * [Say hello to x64 Assembly [part 1]](http://0xax.blogspot.com/2014/08/say-hello-to-x64-assembly-part-1.html)
+* [x64 Cheat Sheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+* [The Stack: Push and Pop](https://www.cs.uaf.edu/2015/fall/cs301/lecture/09_16_stack.html)
