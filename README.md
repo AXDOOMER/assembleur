@@ -29,3 +29,7 @@ Utiliser le script `makeexec.sh`. Il peut compiler tous les fichiers `.asm` de c
 * [Full list of ordinary integer x86 registers and 64 bit registers](https://www.cs.uaf.edu/2017/fall/cs301/reference/x86_64.html)
 * [64 bit assembly language using c standard library](https://lists.freebsd.org/pipermail/freebsd-doc/2013-July/022325.html)
 * [Allocating Storage Space for Initialized Data](https://www.tutorialspoint.com/assembly_programming/assembly_variables.htm)
+
+### Fun
+
+[Compiler Explorer](https://godbolt.org/)
