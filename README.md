@@ -32,4 +32,4 @@ Utiliser le script `makeexec.sh`. Il peut compiler tous les fichiers `.asm` de c
 
 ### Fun
 
-[Compiler Explorer](https://godbolt.org/)
+* [Compiler Explorer](https://godbolt.org/)

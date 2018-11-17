@@ -18,6 +18,8 @@ if [ "$#" -ge 1 ]; then
 
 		if grep -q extern "$1"; then
 			# Use `gcc` because it must be importing glibc functions
+			# Under Manjaro, I could not compile without '-static' and it makes the ELFs rather big.
+			# Under OpenSuse, it works fine without it.
 			gcc -o $name $name.o -static
 		else
 			# Use the regular linker
