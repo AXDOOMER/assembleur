@@ -15,6 +15,7 @@ Utiliser le script `makeexec.sh`. Il peut compiler tous les fichiers `.asm` de c
 * `hello64.asm`: Hello world en 64-bit
 * `sayname.asm`: Vous dit Bonjour! avec votre nom en utilisant des _syscall_
 * `number.asm`: Importe la libc pour vous demander un nombre en utilisant _scanf_ et _printf_
+* `args.asm`: Liste les arguments qui lui sont passés en ligne de commande
 
 ### Documentation
 
